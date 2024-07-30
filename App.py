@@ -664,7 +664,6 @@ changeUsr_window = changeUsrWindow()
 changeImage_window = changeImageWindow()
 editInfo_window = editInfoWindow()
 
-
 start_window.deiconify()
 start_window.mainloop()
 
